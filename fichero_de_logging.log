@@ -1,0 +1,10 @@
+ 2021-11-02 10:42:37,258 -  DEBUG - main.py  - Start of program
+ 2021-11-02 10:42:37,258 -  DEBUG - main.py Start of factorial(5%)
+ 2021-11-02 10:42:37,259 -  DEBUG - main.py i is 1, total is 1
+ 2021-11-02 10:42:37,259 -  DEBUG - main.py i is 2, total is 2
+ 2021-11-02 10:42:37,259 -  DEBUG - main.py i is 3, total is 6
+ 2021-11-02 10:42:37,259 -  DEBUG - main.py i is 4, total is 24
+ 2021-11-02 10:42:37,259 -  DEBUG - main.py i is 5, total is 120
+ 2021-11-02 10:42:37,259 -  DEBUG - main.py End of factorial(5%)
+ 2021-11-02 10:42:37,259 -  DEBUG - module.py  - estoy dentro de module
+ 2021-11-02 10:42:37,260 -  DEBUG - main.py End of program
